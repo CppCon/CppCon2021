@@ -1,5 +1,13 @@
-# CppCon 2021
-Slides and other materials from CppCon2021
+CppCon 2021 Presentation Materials
+==================================
+
+https://github.com/CppCon/CppCon2021 is the canonical location for presentations
+and code from [CppCon 2021](http://cppcon.org).
+
+[For Speakers: Submitting Materials](Submitting.md)
+# Index of Materials
+
+## Presentations
 
 - ["Deducing this" Patterns](Presentations/Deducing_this_Patterns_Ben_Deane_CppCon_2021.pdf) by Ben Deane
 - [3D Graphics for Dummies](Presentations/CppCon_2021_3D_Graphics_for_Dummies.pdf) by Chris Ryan
