@@ -7,7 +7,7 @@ Slides and other materials from CppCon2021
 - [A Case-study in Rewriting a Legacy GUI Library for Real-time Audio Software in Modern C++](Presentations/Glass_Properties_CPPCon_2021_2.pdf) by Roth Michaels
 - [A Crash Course in Calendars, Dates, Time, and Time Zones](Presentations/CppCon_2021_A_Crash_Course_in_Calendars_Dates_Time_and_Time_Zones.pptx) by Marc Gregoire
 - [A Persistent Hash Map for Graph Processing Workloads and a Methodology for Persistent Transactional Data Structures](Presentations/CppCon_2021__Persistent_Data_Structures.pdf) by Christina Peterson & Kenneth Lamar
-- [An Editor Can Do That? Debugging Assembly Language and GPU Kernels in Visual Studio Code](Presentations/https://github.com/CppCon/CppCon2021/blob/main/an_editor_can_do_that.pdf) by Julia Reid
+- [An Editor Can Do That? Debugging Assembly Language and GPU Kernels in Visual Studio Code](Presentations/an_editor_can_do_that.pdf) by Julia Reid
 - [Back to Basics: Algorithmic Complexity](Presentations/Algorithmic_Complexity.pdf) by Amir Kirsh & Adam Segoli Schubert
 - [Back to Basics: Casting](Presentations/Back_to_Basics_Casting.pdf) by Brian Ruth
 - [Back to Basics: Classic STL](Presentations/back_to_basics_classic_stl__bob_steagall__cppcon_2021_1.pdf) by Bob Steagall
