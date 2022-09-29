@@ -62,5 +62,4 @@ Slides and other materials from CppCon2021
 - [Using C Libraries in your Modern C++ Embedded Project: A journey integrating an EtherCAT stack, a C++17 compiler, and Modern C++ idioms](Presentations/ethercat_stack.pdf) by Michael Caisse
 - [Visualize Time Enabled Data Using ArcGIS Qt (C++) and Toolkit](Presentations/Visualize_Time_Enabled_Data_using_ArcGIS_Qt.pptx) by Gela Malek Pour
 - [What's New in Visual Studio: 64-bit IDE, C++20, WSL 2, and More](Presentations/whats_new_in_visual_studio.pptx) by Marian Luparu & Sy Brand
-- [Working with Asynchrony Generically: A Tour of C++ Executors (part 1 of 2)](Presentations/Working_with_Asynchrony_Generically_Parts_1_2_Eric_Niebler_1.pptx) by Eric Niebler
-- [Working with Asynchrony Generically: A Tour of C++ Executors (part 2 of 2)](Presentations/CppCon2021Slides/Working_with_Asynchrony_Generically_Parts_1_2_Eric_Niebler_1.pptx) by Eric Niebler
+- [Working with Asynchrony Generically: A Tour of C++ Executors (part 1 & 2)](Presentations/Working_with_Asynchrony_Generically_Parts_1_2_Eric_Niebler_1.pptx) by Eric Niebler
