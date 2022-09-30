@@ -4,7 +4,6 @@ CppCon 2021 Presentation Materials
 https://github.com/CppCon/CppCon2021 is the canonical location for presentations
 and code from [CppCon 2021](http://cppcon.org).
 
-[For Speakers: Submitting Materials](Submitting.md)
 # Index of Materials
 
 ## Presentations
