@@ -75,12 +75,15 @@ and code from [CppCon 2021](http://cppcon.org).
 
 
 
-- [FlexClass - Classes with dynamic size for everyone](Lightning Talk Slides/https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Breno%20Guimar%C4%88es%20_%20FlexClass.pptx) by Breno Guimarães
-- [Love Code Reviews? Try Pair Programming instead](Lightning Talk Slides/https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Ankur%20Satle%20_%20Ankur%20Satle%20_%20Like%20Code%20Reviews%20_%20Try%20Pair%20Programming%20_%20You'll%20love%20it!.pdf) by Ankur Satle
-- [One year of Meeting C++ online](Lightning Talk Slides/https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Jens%20Weller%20_%20OneYearMeetingCppOnline.pdf) by Jens Weller
-- [Online tools every C++ developers should know](Lightning Talk Slides/https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Thamara%20Andrade%20_%20Thamara%20Andrade%20_%20Online%20tools%20for%20C%2B%2B%20developers.pdf) by Thamara Andrade
-- [Quickly estimating powers-of-two in your head](Lightning Talk Slides/https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Andreas%20Weis%20_%20Quickly%20Estimating%20Powers_of_Two.pdf) by Andreas Weis
-- [Reading Configuration Values When You Should Not Fail](Lightning Talk Slides/https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Matthias%20Bilger%20_%20CPPcon2021.pdf) by Matthias Bilger
+- [FlexClass - Classes with dynamic size for everyone](https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Breno%20Guimar%C4%88es%20_%20FlexClass.pptx) by Breno Guimarães
 
-- [Simplify Vulcan APIs with code generation](Lightning Talk Slides/https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Victor%20Bogado%20_%20Code%20generation%20for%20Vulkan%20Initialization.pdf) by Victor Bogado da Silva Lins
-- [Tackling Technical Debt: Hello Junior Developers!](Lightning Talk Slides/https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Tulio%20Paschoalin%20Leao%20_%20Solving%20Technical%20Debt%20_%20Tulio%20Paschoalin%20Leao.pdf) by Tulio Paschoalin Leao
+
+
+- [Love Code Reviews? Try Pair Programming instead](https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Ankur%20Satle%20_%20Ankur%20Satle%20_%20Like%20Code%20Reviews%20_%20Try%20Pair%20Programming%20_%20You'll%20love%20it!.pdf) by Ankur Satle
+- [One year of Meeting C++ online](https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Jens%20Weller%20_%20OneYearMeetingCppOnline.pdf) by Jens Weller
+- [Online tools every C++ developers should know](https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Thamara%20Andrade%20_%20Thamara%20Andrade%20_%20Online%20tools%20for%20C%2B%2B%20developers.pdf) by Thamara Andrade
+- [Quickly estimating powers-of-two in your head](https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Andreas%20Weis%20_%20Quickly%20Estimating%20Powers_of_Two.pdf) by Andreas Weis
+- [Reading Configuration Values When You Should Not Fail](https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Matthias%20Bilger%20_%20CPPcon2021.pdf) by Matthias Bilger
+
+- [Simplify Vulcan APIs with code generation](https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Victor%20Bogado%20_%20Code%20generation%20for%20Vulkan%20Initialization.pdf) by Victor Bogado da Silva Lins
+- [Tackling Technical Debt: Hello Junior Developers!](https://github.com/CppCon/CppCon2021/blob/main/Lightning%20Talk%20Slides/Tulio%20Paschoalin%20Leao%20_%20Solving%20Technical%20Debt%20_%20Tulio%20Paschoalin%20Leao.pdf) by Tulio Paschoalin Leao
