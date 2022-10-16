@@ -57,7 +57,7 @@ and code from [CppCon 2021](http://cppcon.org).
 - [Generic Graph Libraries in C++20](Presentations/generic_graph_libraries_in_cpp20__phil_ratzloff__cppcon_2021.pdf) by Phil Ratzloff & Andrew Lumsdaine
 - [GraphBLAS: Building a C++ Matrix API for Graph Algorithms](Presentations/graphblas_building_a_cpp_matrix_api_for_graph_algorithms__scott_mcmillan__cppcon_2021.pdf) by Scott McMillan & Benjamin Brock
 - [Hazard Pointer Synchronous Reclamation Beyond Concurrency TS2](Presentations/hazard_pointer_synchronous_reclamation_beyond_concurrency_ts2__maged_michael__cppcon_2021.pdf) by Maged Michael
-- [Heterogeneous Modern C++ with SYCL 2020](Presentations/heterogeneous_modern_cpp_with_sycl_2000__michael wong__cppcon_2021.pdf) by Michael Wong, Gordon Brown, Nevin Liber & Tom Deakin
+- [Heterogeneous Modern C++ with SYCL 2020](Presentations/heterogeneous_modern_cpp_with_sycl_2000__michael_wong__cppcon_2021.pdf) by Michael Wong, Gordon Brown, Nevin Liber & Tom Deakin
 - [Implementing C++ Modules: Lessons Learned, Lessons Abandoned](Presentations/implementing_cpp_modules_lessons_learned_and_abandoned__gabriel_dos_reis__cppcon_2021.pdf) by Gabriel Dos Reis & Cameron DaCamara
 - [Making Libraries Consumable for Non-C++ Developers](Presentations/making_libraries_consumable_for_non_cpp_developers__aaron_robinson__cppcon_2021.pdf) by Aaron Robinson
 - [Misra Parallelism Safety-critical Guidelines for C++11, 17, Then C++20, 23](Presentations/misra_parallelism_safery_critical_guidelines_for_cpp11_cpp17_cpp20_cpp23__andreas_weis__cppcon_2021.pdf) by Andreas Weis, Michael Wong & Ilya Burylov
@@ -66,7 +66,7 @@ and code from [CppCon 2021](http://cppcon.org).
 - [Testing Compile-time Constructs Within a Runtime Unit Testing Framework](Presentations/testing_compile_time_constructs_within_a_runtime_unit_testing_framework__igor_bogoslavski__cppcon_2021.pdf) by Igor Bogoslavskyi
 - [The Roles of Symmetry And Orthogonality In Design](Presentations/the_roles_of_symmetry_and_orthogonality_in_design__charley_bay__cppcon_2021.pdf) by Charley Bay
 - [The Upcoming Concurrency TS Version 2 for Low-Latency and Lockless Synchronization](Presentations/the_upcoming_concurrency_ts_2_for_low_latency_and_lockless_synchronization__michael_wong__cppcon_2021.pdf) by Michael Wong, Paul E. McKenney & Maged Michael
-- [Using C Libraries in your Modern C++ Embedded Project: A journey integrating an EtherCAT stack, a C++17 compiler, and Modern C++ idioms](Presentations/using_cpp_libraries_in_your_modern_cpp_embedded_project__michael_caisse__cppcon_2021.pdf by Michael Caisse
+- [Using C Libraries in your Modern C++ Embedded Project: A journey integrating an EtherCAT stack, a C++17 compiler, and Modern C++ idioms](Presentations/using_cpp_libraries_in_your_modern_cpp_embedded_project__michael_caisse__cppcon_2021.pdf) by Michael Caisse
 - [Visualize Time Enabled Data Using ArcGIS Qt (C++) and Toolkit](Presentations/visualize_time_enabled_data_using_arcgis_qt_and_toolkit__gela_malek_pour__cppcon_2021.pdf) by Gela Malek Pour
 - [What's New in Visual Studio: 64-bit IDE, C++20, WSL 2, and More](Presentations/whats_new_in_visual_studio_64bit_ide_cpp20_wsl2_amd_more__marian_luparu__cppcon_2021.pdf) by Marian Luparu & Sy Brand
 - [Working with Asynchrony Generically: A Tour of C++ Executors (part 1 & 2)](Presentations/working_with_asynchrony_generically_a_tour_of_cpp_executors__eric_niebler__cppcon_2021.pdf) by Eric Niebler
