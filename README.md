@@ -17,7 +17,7 @@ and code from [CppCon 2021](http://cppcon.org).
 - [An Editor Can Do That? Debugging Assembly Language and GPU Kernels in Visual Studio Code](Presentations/debugging_assembly_language_and_gpu_kernels_in_vscode__julia_reid__cppcon_2021.pdf) by Julia Reid
 - [Back to Basics: Algorithmic Complexity](Presentations/back_to_basics_algorithmic_complexity__adam_kirsh__cppcon_2021.pdf) by Amir Kirsh & Adam Segoli Schubert
 - [Back to Basics: Casting](Presentations/back_to_basics_casting__brian_ruth__cppcon_2021.pdf) by Brian Ruth
-- [Back to Basics: Classic STL](Presentations/back_to_basics_classic_stl__bob_steagall__cppcon_2021_1.pdf) by Bob Steagall
+- [Back to Basics: Classic STL](Presentations/back_to_basics_classic_stl__bob_steagall__cppcon_2021.pdf) by Bob Steagall
 - [Back to Basics: Concurrency](Presentations/back_to_basics_concurrency__mike_shah__cppcon_2021.pdf) by Mike Shah
 - [Back to Basics: Debugging Techniques](Presentations/back_to_basics_debugging_techniques__bob_steagall__cppcon_2021.pdf) by Bob Steagall
 - [Back to Basics: Designing Classes (part 1 of 2)](Presentations/back_to_basics_designing_classes_part_1__klaus_iglberger__cppcon_2021.pdf) by Klaus Iglberger
