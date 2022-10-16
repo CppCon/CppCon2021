@@ -30,7 +30,7 @@ and code from [CppCon 2021](http://cppcon.org).
 - [Back to Basics: Templates (part 1 of 2)](Presentations/back_to_basics_templates_part_1__bob_steagall__cppcon_2021.pdf) by Bob Steagall
 - [Back to Basics: Templates (part 2 of 2)](Presentations/back_to_basics_templates_part_2__bob_steagall__cppcon_2021.pdf) by Bob Steagall
 - [Back to Basics: The Factory Pattern](Presentations/back_to_basics_the_factory_pattern__mike_shah__cppcon_2021.pdf) by Mike Shah
-- [Beyond struct: Meta-programming a struct Replacement in C++20](beyond_struct_metaprogramming_a_struct_replacement_in_cpp20__john_bandella__cppcon_2021.pdf) by John Bandela
+- [Beyond struct: Meta-programming a struct Replacement in C++20](Presentations/beyond_struct_metaprogramming_a_struct_replacement_in_cpp20__john_bandella__cppcon_2021.pdf) by John Bandela
 - [Branchless Computing: Why Conditions Are Bad for Your Code, and What Can You Do About It](Presentations/branchless_computing_why_conditions_are_bad_for_your_code__fedor_pikus__cppcon_2021.pdf) by Fedor Pikus
 - [Bringing Existing Code to CUDA Using constexpr and std::pmr](Presentations/bringing_existing_code_to_cuda_using_constexpr_and_stdpmr__bowie_owens__cppcon_2021.pdf) by Bowie Owens
 - [C++ Standard Parallelism](Presentations/cpp_standard_parallelism__bryce_adelstein_lelbach__cppcon_2021.pdf) by Bryce Adelstein Lelbach
