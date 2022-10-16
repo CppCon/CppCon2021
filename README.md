@@ -36,7 +36,7 @@ and code from [CppCon 2021](http://cppcon.org).
 - [C++ Standard Parallelism](Presentations/cpp_standard_parallelism__bryce_adelstein_lelbach__cppcon_2021.pdf) by Bryce Adelstein Lelbach
 - [C++20 ❤ SQL](Presentations/cpp20_loves_sql__john_bandela__cppcon_2021.pdf) by John Bandela
 - [C++20’s ＜chrono＞ Calendars and Time Zones in MSVC](Presentations/cpp20_chrono_calendars_and_time_zones_in_msvc__miya_natsuhara__cppcon_2021.pdf) by Miya Natsuhara
-- [Changing Legacy Code with Confidence: Practical Advice for Maintaining and Migrating Working Code](Presentations/changing_legacy_code.pdf) by Brian Ruth
+- [Changing Legacy Code with Confidence: Practical Advice for Maintaining and Migrating Working Code](Presentations/changing_legacy_code_with_confidence_practical_advice_for_maintaining_and_migrating_working_code__brian_ruth__cppcon_2021.pdf) by Brian Ruth
 - [Code Analysis++](Presentations/code_analysis__anastasia_kazakova__cppcon_2021.pdf) by Anastasia Kazakova
 - [Combining Co-Routines and Functions into a Job System](Presentations/combining_coroutines_and_functions_into_a_job_system__helmut_hlavacs__cppcon_2021.pdf) by Helmut Hlavacs
 - [Compile-Time Compression and Resource Generation with C++20](Presentations/compile_time_compression_and_resource_generation_with_cpp20__ashley_roll__cppcon_2021.pdf) by Ashley Roll
