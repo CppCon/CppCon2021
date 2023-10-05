@@ -32,6 +32,9 @@ and code from [CppCon 2021](http://cppcon.org).
 - [Beyond struct: Meta-programming a struct Replacement in C++20](Presentations/BeyondStruct.pdf) by John Bandela
 - [Branchless Computing: Why Conditions Are Bad for Your Code, and What Can You Do About It](Presentations/Branchless_computing.pdf) by Fedor Pikus
 - [Bringing Existing Code to CUDA Using constexpr and std::pmr](Presentations/bringing_existing_code_to_CUDA.pptx) by Bowie Owens
+- [Building an Extensible Type Serialization System using Partial Template
+  Specialization](Presentations/Pejman_Ghorbanzade_CppCon_2021_Extensible_Type_Serialization_System.pdf)
+by Pejman Ghorbanzade
 - [C++ Standard Parallelism](Presentations/cpp_standard_parallelism__r0.pdf) by Bryce Adelstein Lelbach
 - [C++20 ❤ SQL](Presentations/C%5EM%5EM20_%E2%9D%A4_SQL.pdf) by John Bandela
 - [C++20’s ＜chrono＞ Calendars and Time Zones in MSVC](Presentations/Cpp20_Chrono.pptx) by Miya Natsuhara
